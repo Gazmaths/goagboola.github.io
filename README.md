@@ -1,6 +1,6 @@
 # Gazali Agboola - Personal Website
 
-Welcome to my personal website repository! This site serves as an online portfolio to showcase my work, including my biography, skills, publications, and research projects.
+Welcome to my personal website repository! This site is an online portfolio showcasing my work, including my biography, skills, publications, and research projects.
 
 ## Overview
 
@@ -8,8 +8,8 @@ I am a Ph.D. candidate in Data Science & Analytics at North Carolina A&T State U
 
 ## Sections
 
-1. **[Biography & Skills](https://gazmaths.github.io/)**: An introduction to who I am, my background, and the technical skills I have acquired in data science.
-2. **[Publications](https://gazmaths.github.io/publications.html)**: A list of my research publications in the field of data science and machine learning.
+1. **[Biography & Skills](https://goagboola.github.io/)**: An introduction to who I am, my background, and the technical skills I have acquired in data science.
+2. **[Publications](https://gazmaths.github.io/publications.html)**: A list of my research publications in data science and machine learning.
 3. **[Projects](https://gazmaths.github.io/projects.html)**: A showcase of my academic and professional projects.
 4. **[CV](https://gazmaths.github.io/cv.html)**: My detailed curriculum vitae, available for download.
 
